@@ -40,7 +40,7 @@ linear-regression-mastery/
 |----------|---------|--------------|
 | **practical_model_guide.ipynb** | Main interactive learning experience | Complete workflow, visualizations, from-scratch to sklearn |
 | **practical_model_python_script.py** | Production-ready implementation | Clean, modular code for real applications |
-| **PDF Series** | Theoretical foundations | Mathematical derivations, algorithm insights |
+| **PDF Series** | Theoretical foundations | Algorithm insights |
 
 ## Quick Start
 
