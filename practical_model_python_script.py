@@ -18,7 +18,6 @@
 # 4. Normality of Errors  
 # 5. No multicollinearity  
 # 6. No autocorrelation (for time series)
-# 
 # #
 
 # %%
